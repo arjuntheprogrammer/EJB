@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server glassfish.adminname="admin" glassfish.adminpassword="admin" glassfish.adminserverportnumber="4848" glassfish.domainpath="/home/arjun/Documents/eclipse ee/glassfish4/glassfish/domains/domain1" glassfish.jarDeploy="true" glassfish.serverportnumber="8080" hostname="localhost" id="GlassFish at localhost [domain1]" name="GlassFish at localhost [domain1]" runtime-id="GlassFish 4" server-type="glassfish.server" server-type-id="glassfish.server" start-timeout="240" stop-timeout="240" timestamp="42">
+  <list key="modules" value0="TestEJB::org.eclipse.jst.jee.server:TestEJB::jst.ejb::3.2" value1="TestWeb::org.eclipse.jst.jee.server:TestWeb::jst.web::3.1"/>
+</server>
